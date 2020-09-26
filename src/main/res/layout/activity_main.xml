@@ -12,7 +12,7 @@
         android:fontFamily="@font/sourcesanspro_bold"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/koinrobo"
+        android:text="@string/koinp2p"
         android:textSize="22sp"
         android:textColor="@color/whitePrimary"
         app:layout_constraintBottom_toBottomOf="parent"
